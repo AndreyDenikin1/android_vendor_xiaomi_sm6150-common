@@ -1,0 +1,17 @@
+libadsprpc.so
+libalAILDC.so
+libalCFR.so
+libalhLDC.so
+libcdsprpc.so
+libfastcvopt.so
+libHalSuperSensorServer.so
+libhta_hexagon_runtime.so
+liblistensoundmodel2.so
+libnpu.so
+libOpenCL.so
+libsdsprpc.so
+libSuperSensor.so
+libSuperSensorCPU.so
+libVDClearShot.so
+libVDSuperPhotoAPI.so
+unnhal-acc-hta.so
